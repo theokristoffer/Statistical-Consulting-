@@ -1,0 +1,15 @@
+Hybrid Optimization Summary (boosting baseline + FE elasticity slope)
+========================================================================
+IDs evaluated: 200
+Pooled beta:                 -1.534
+Cluster blending:            True
+Mean baseline revenue:       505.10
+Mean optimal revenue:        564.36
+Mean uplift:                 9.27%
+Median uplift:               8.97%
+
+Modal multiplier per lead bucket:
+  ladder_0_4w     modal 0.85   (mean 0.850)
+  ladder_5_12w    modal 0.85   (mean 0.850)
+  ladder_13_26w   modal 0.85   (mean 0.850)
+  ladder_27_52w   modal 0.85   (mean 0.850)

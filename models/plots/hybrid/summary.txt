@@ -1,0 +1,7 @@
+Hybrid diagnostic plots summary
+==================================================
+Panels: 200
+Mean baseline revenue:  505.10
+Mean optimal revenue:   564.36
+Mean uplift:            9.27%
+Median uplift:          8.97%

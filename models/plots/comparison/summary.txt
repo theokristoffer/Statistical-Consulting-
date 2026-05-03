@@ -1,0 +1,8 @@
+Architecture comparison summary
+============================================================
+Panels: 200
+Mean baseline revenue:           505.10
+Mean boosting-only revenue:      778.68  (+54.2%)
+Mean hybrid revenue:             564.36  (+11.7%)
+Median uplift, boosting-only:    19.54%
+Median uplift, hybrid:           8.97%
